@@ -1,0 +1,23 @@
+.block {
+  width: 445px;
+}
+.title {
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -0.02em;
+  color: #242d52;
+  margin-bottom: 19px;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 162%;
+  color: #242d52;
+  opacity: 0.5;
+}
+.Main_block {
+  display: flex;
+  gap: 28px;
+  margin-bottom: 40px;
+}

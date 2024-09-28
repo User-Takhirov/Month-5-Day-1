@@ -1,0 +1,32 @@
+.title {
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #242d52;
+  margin-bottom: 19px;
+}
+.text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 162%;
+  text-align: center;
+  color: #242d52;
+  opacity: 0.5;
+}
+.img {
+  margin-bottom: 24px;
+  position: absolute;
+  top: -50px;
+  right: 52%;
+  transform: translate(50px);
+}
+.block {
+  width: 540px;
+  text-align: center;
+  background-color: #fafafa;
+  position: relative;
+}
+.content {
+  padding: 60px 40px 40px 40px;
+}

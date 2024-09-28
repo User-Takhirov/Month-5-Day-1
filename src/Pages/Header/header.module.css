@@ -1,0 +1,23 @@
+.block {
+  margin-top: 56px;
+  margin-bottom: 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+}
+
+.item {
+  font-weight: 500;
+  font-size: 13px;
+  color: #242d52;
+}
+.link {
+  font-weight: 500;
+  font-size: 18px;
+  color: #242d52;
+}

@@ -1,0 +1,26 @@
+.title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 114%;
+  letter-spacing: -0.02em;
+  color: #242d52;
+  margin-bottom: 16px;
+}
+.text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 162%;
+  color: #242d52;
+  opacity: 0.5;
+  width: 350px;
+  margin-bottom: 40px;
+}
+.left_block{
+    width: 456px;
+}
+.main_block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 132px;   
+}

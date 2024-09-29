@@ -1,0 +1,55 @@
+.main_block {
+  background-color: #1d1e25;
+  padding: 62px 0;
+}
+
+.list {
+  display: flex;
+  gap: 13px;
+}
+.icon {
+  margin-bottom: 83px;
+}
+.link {
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: -0.02em;
+  color: #fff;
+}
+.item {
+  margin-bottom: 13px;
+}
+.linkk {
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: -0.02em;
+  color: #fff;
+}
+.itemm {
+  margin-bottom: 13px;
+}
+.input {
+  border-radius: 22px;
+  padding: 14px 41px 14px 16px;
+  border: none;
+  outline: #f3603c;
+}
+.input_block {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 60px;
+}
+.block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.copyright {
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: -0.02em;
+  text-align: right;
+  color: #fff;
+  opacity: 0.5;
+}

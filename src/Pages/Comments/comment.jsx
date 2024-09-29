@@ -6,6 +6,7 @@ import { Buttons } from "../../Components/Buttons";
 export const Comments = () => {
   return (
     <div>
+      <h1 className={style.title}>What they’ve said</h1>
       <div className={style.block}>
         <CommentCard
           title="Anisha Li"
@@ -17,7 +18,7 @@ export const Comments = () => {
         />
       </div>
       <div className={style.btn}>
-        <Buttons text="Get Started" />
+        <Buttons text="Get Started"  />
       </div>
     </div>
   );
